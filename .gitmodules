@@ -1,0 +1,3 @@
+[submodule "SomeCollectionsUsefulMethods"]
+	path = SomeCollectionsUsefulMethods
+	url = git@github.com:KirSanich/SomeCollectionsUsefulMethods.git
